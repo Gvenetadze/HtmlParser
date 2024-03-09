@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GdmeMEli3nNU0KxUBlrO9tQD38haBLG1BG0ktNs9cONRTNMhDH+m6QpX2YcuaGffTmXkPiFU1JhTo1v3NXlUCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andri\\OneDrive\\Desktop\\HtmlParser\\HtmlParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andri\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512",
+    "C:\\Users\\andri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
